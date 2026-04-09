@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+p {
+    text-align: center;
+    font-size: 75px;
+    color: rgb(128,255,10);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    margin: 0;
+}
+
+.p1 {
+    width: 400px;
+    text-align: center;
+    color: yellow;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    border-left: 10px solid orange;
+    border-right: 10px solid green;
+    border-top: 10px solid red;
+    border-bottom: 10px solid brown;
+    box-sizing: border-box;
+    padding: 50px 10px 30px;
+    margin: 10px 10px 15px 25px;
+
+}
+
+.p2 {
+    width: 400px;
+    text-align: center;
+    color: rgb(255, 251, 35);
+    font-size: 15px;
+    font-family: ser;
+    background-color: black;
+}
